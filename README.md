@@ -23,9 +23,9 @@ Make sure CMake, Git and Ninja are in your path.
     cmd> git clone https://github.com/willyd/caffe-builder.git caffe-builder
 
 ### Building the libraries
-Execute the following command to build the libraries
+Execute the following command to build the libraries for VS 2017 x64
 
-    cmd> build_v120_x64.cmd
+    cmd> build_v150_x64.cmd
 
 Alternatively you can execute one command after the other
     :: Create a build directory
